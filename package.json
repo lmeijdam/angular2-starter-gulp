@@ -1,5 +1,5 @@
 {
-  "name": "angular2-quickstart",
+  "name": "angular2-starter-gulp",
   "version": "1.0.0",
   "scripts": {
       "gulp": "gulp",
