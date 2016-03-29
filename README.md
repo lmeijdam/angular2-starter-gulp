@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 
-Keep in mind that the app, view and style folder are created when starting/compiling the app.
+Keep in mind that the app, view and style folder are created when starting/compiling the app. Please also make sure you have NodeJs installed.
 
 ### References
 For this project I used the following references;
